@@ -18,9 +18,12 @@ h1 {
 }
 
 i {
-    padding: 10px 480px;
+    padding: 10px 0px;
 }
 
 h3 {
+    text-align: center;
+}
+.head {
     text-align: center;
 }
