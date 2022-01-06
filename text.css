@@ -1,0 +1,26 @@
+#cont {
+    background-color: whitesmoke;
+    padding: 40px 60px;
+    border: 100px 40px;
+    border-radius: 75px;
+    -webkit-border-radius: 75px;
+    -moz-border-radius: 75px;
+    -ms-border-radius: 75px;
+    -o-border-radius: 75px;
+}
+
+body {
+    background-color: greenyellow
+}
+
+h1 {
+    text-align: center;
+}
+
+i {
+    padding: 10px 480px;
+}
+
+h3 {
+    text-align: center;
+}
